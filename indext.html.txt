@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ronald Trozzo - Professional Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1em 0;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 10px;
+        }
+        nav ul li a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            padding: 2em 0;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Ronald Trozzo</h1>
+            <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#education">Education</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section id="about" class="container">
+        <h2>About</h2>
+        <p>A seasoned professional with over 16 years in executive roles within the automotive industry, adept at business and strategy development. Known for practical problem-solving and preventing the reoccurrence of complex challenges. Demonstrated leadership in implementing effective operational processes and promoting communication excellence to equip teams with systematic, scalable, and repeatable approaches.</p>
+    </section>
+
+    <section id="skills" class="container">
+        <h2>Skills</h2>
+        <ul>
+            <li>Claims Assessment and Evaluation</li>
+            <li>Quality Control and Assurance</li>
+            <li>Insurance Law Knowledge</li>
+            <li>Organizational Development</li>
+            <li>Strategic Planning and Execution</li>
+            <li>Cross-functional Collaboration</li>
+            <li>Customer Relationship Management</li>
+            <li>Adaptability and Flexibility</li>
+            <li>Performance Management</li>
+            <li>Leadership and Mentoring</li>
+            <li>Financial Management and Budgeting</li>
+            <li>Regulatory Compliance</li>
+            <li>Risk Assessment and Mitigation</li>
+            <li>Problem-solving and Decision-making</li>
+            <li>Continuous Learning</li>
+            <li>Adaptation to Industry Trends</li>
+            <li>Project Management</li>
+            <li>Effective Communication</li>
+            <li>Process Improvement and Optimization</li>
+            <li>Time Management and Prioritization</li>
+        </ul>
+    </section>
+
+    <section id="experience" class="container">
+        <h2>Experience</h2>
+        <h3>Material Damage Manager and Software PM, Tesla Insurance</h3>
+        <p><em>07/2022 - 04/2024, Austin, TX, United States</em></p>
+        <ul>
+            <li>Optimized claims processes and developed software solutions, enhancing operational efficiency and customer satisfaction in the insurance sector.</li>
+            <li>Led software development, resulting in streamlined efficiency improvements.</li>
+            <li>Created innovative sales paths, significantly expanding market reach and customer engagement.</li>
+            <li>Developed cutting-edge software tool, optimizing vehicle valuation accuracy and operational efficiency.</li>
+            <li>Successfully negotiated and closed rental contract within a tight timeframe of 45 days.</li>
+            <li>Negotiated and secured a substantial $1.4M recovery.</li>
+            <li>Proactively managed key relationships, driving substantial business growth and market penetration.</li>
+            <li>Influenced industry standardization, fostering collaboration and advancing technological advancements.</li>
+            <li>Cultivated a transparent and supportive team culture, facilitating continuous growth and development opportunities.</li>
+        </ul>
+        
+        <!-- Add other experience sections similarly -->
+        
+    </section>
+
+    <section id="education" class="container">
+        <h2>Education</h2>
+        <p><strong>Bachelor's Degree, Organizational Leadership Studies</strong><br>Central Michigan University, Mount Pleasant, MI, United States (In-Progress)</p>
+        <p><strong>Vocational Airframe And Powerplant Degree</strong><br>Aviation High School, Queens, NY, United States</p>
+    </section>
+
+    <section id="contact" class="container">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:Rtrozzo@Protonmail.com">Rtrozzo@Protonmail.com</a></p>
+        <p>Phone: 516.574.3707</p>
+        <p>Location: Manlius, NY, United States</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/RonTrozzo/">linkedin.com/in/RonTrozzo/</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Ronald Trozzo. All rights reserved.</p>
+    </footer>
+</body>
+</html>
